@@ -14,4 +14,5 @@ Learn more about this project at [noiszy.com](https://noiszy.com/) and the [Nois
 As explained on the [privacy page of noiszy.com](https://noiszy.com/privacy/), we are tracking Noiszy usage with Google Analytics.  This lets me know how many people are using Noiszy, and how much data they're generating.  I completely understand that some people will be bothered that Noiszy tracks anything, but the point of Noiszy is to create data, and to spur the conversation about what should then be done with that data.  I believe that knowing amounts of data from Noiszy is useful and reasonable, and it's done transparently - so I stand behind this.  Of course, debate is welcomed.  At any rate, you'll find some GA snippets in the code.
 
 Hopefully, I managed to remove Google Analytics.
+
 Noizy can be used to produce "natural" web traffic. Here the timing needs to be adjusted in background.js :231 base_interval = 0.01 instead of 1
