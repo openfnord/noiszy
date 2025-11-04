@@ -117,7 +117,7 @@ var presets = {
       },
       {
         "url": "news.google.com",
-        "checked": "true"
+        "checked": ""
       },
       {
         "url": "nypost.com",
