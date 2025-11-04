@@ -16,3 +16,12 @@ As explained on the [privacy page of noiszy.com](https://noiszy.com/privacy/), w
 Hopefully, I managed to remove Google Analytics.
 
 Noizy can be used to produce "natural" web traffic. Here the timing needs to be adjusted in background.js :231 base_interval = 0.01 instead of 1
+
+## Testing with firefox.
+one can unpack the xpi (it is a zip) and replace the files in the archive with the html and js files of this repo and zip it again and call it .xpi
+
+The META-INF directory needs to be removed as this is not signed anymore.
+
+In the browser in about:config the setting "xpinstall.signatures.required" needs to be set to false to allow the installation of unsigned extensions (use with care!)
+
+You can use the test_noisy.xpi which includes the newest modifications but is unsigned at the moment. I need to find out how to sign firefox extensions.
