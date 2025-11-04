@@ -16,7 +16,15 @@ var presets = {
         "checked": "true"
       },
       {
+        "url": "bild.de",
+        "checked": "true"
+      },
+      {
         "url": "bloomberg.com",
+        "checked": "true"
+      },
+      {
+        "url": "blick.ch",
         "checked": "true"
       },
       {
@@ -40,6 +48,14 @@ var presets = {
         "checked": "true"
       },
       {
+        "url": "dailymail.co.uk",
+        "checked": "true"
+      },
+      {
+        "url": "derstandard.at",
+        "checked": "true"
+      },
+      {
         "url": "drudgereport.com",
         "checked": "true"
       },
@@ -52,11 +68,27 @@ var presets = {
         "checked": "true"
       },
       {
+        "url": "greekcitytimes.com",
+        "checked": "true"
+      },
+      {
+        "url": "globaltimes.cn",
+        "checked": "true"
+      },
+      {
         "url": "huffingtonpost.com",
         "checked": "true"
       },
       {
+        "url": "krone.at",
+        "checked": "true"
+      },
+      {
         "url": "indiatimes.com",
+        "checked": "true"
+      },
+      {
+        "url": "israelhayom.com",
         "checked": "true"
       },
       {
@@ -120,6 +152,14 @@ var presets = {
         "checked": "true"
       },
       {
+        "url": "thesun.co.uk",
+        "checked": "true"
+      },
+      {
+        "url": "timesofmalta.com",
+        "checked": "true"
+      },
+      {
         "url": "time.com",
         "checked": "true"
       },
@@ -129,6 +169,10 @@ var presets = {
       },
       {
         "url": "usnews.com",
+        "checked": "true"
+      },
+      {
+        "url": "welt.de",
         "checked": "true"
       },
       {
