@@ -24,4 +24,4 @@ The META-INF directory needs to be removed as this is not signed anymore.
 
 In the browser in about:config the setting "xpinstall.signatures.required" needs to be set to false to allow the installation of unsigned extensions (use with care!)
 
-You can use the test_noisy.xpi which includes the newest modifications but is unsigned at the moment. I need to find out how to sign firefox extensions.
+You can use the test_noiszy.xpi which includes the newest modifications but is unsigned at the moment. I need to find out how to sign firefox extensions.
