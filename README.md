@@ -13,6 +13,7 @@ Learn more about this project at [noiszy.com](https://noiszy.com/) and the [Nois
 ## A note about tracking
 
 I managed to remove Google Analytics, you do not want to be tracked, period.
+The original noiszy still contains tracking. test_noiszy.xpi is free of tracking.
 
 
 ## Timing
