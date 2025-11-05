@@ -227,7 +227,8 @@ function initialize_noiszy(preserve_preferences, callbackFunction) {
   console.log("preserve_preferences",preserve_preferences);
 
   // in dev mode, load links more quickly
-  var base_interval = isDevMode() ? 0.2 : 1;
+  //var base_interval = isDevMode() ? 0.2 : 1;
+  var base_interval = isDevMode() ? 0.02 : 0.01;
   var block_streams = presets.blockStreams;
   var user_site_preset = presets.userSitePreset;
       
@@ -283,7 +284,7 @@ function initialize_noiszy(preserve_preferences, callbackFunction) {
 
     // now sites has current values
     // set values in local storage
-//    console.log("base_interval", base_interval);
+      console.log("base_interval", base_interval);
 //    console.log("new_sites", new_sites);
 //    console.log("block_streams", block_streams);
     
